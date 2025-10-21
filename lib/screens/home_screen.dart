@@ -1,4 +1,4 @@
-import 'package:flutter/material.dart'; 
+import 'package:flutter/material.dart';
 import 'scan_screen.dart';
 
 class HomeScreen extends StatelessWidget {
@@ -9,14 +9,15 @@ class HomeScreen extends StatelessWidget {
     return Scaffold(
       appBar: AppBar(title: const Text('Menu Utama')),
       body: Center(
-        child: ElevatedButton(
-          onPressed: () {
+        child: ListTile(
+          leading: const Icon(Icons.camera_alt, color: Colors.blue),
+          title: Text('Mulai Pindai Teks Baru'),
+          onTap: () => {
             Navigator.push(
               context,
-              MaterialPageRoute(builder: (_) => const ScanScreen()),
-            );
+              MaterialPageRoute(builder: (context) => const ScanScreen()),
+            ),
           },
-          child: const Text('Mulai Scan Teks'),
         ),
       ),
     );
