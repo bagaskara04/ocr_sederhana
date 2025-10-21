@@ -1,16 +1,12 @@
-# ocr_sederhana
+# LAPORAN UTS OCR SEDERHANA
+## Soal 1: Modifikasi Struktur Navigasi dan Aliran
+### Pengubahan Navigasi Home dan Teks Utuh dan Navigasi Balik
+![Soal 1](assets/soal1.gif)
 
-A new Flutter project.
+## Soal 2: Penyesuaian Tampilan dan Penanganan State/Error
+### Custom Loading Screen di ScanScreen dan Spesifikasi Pesan Error
+![Soal 2](assets/soal2.gif)
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Soal 3: Penyesuaian Tampilan dan Penanganan State/Error
+### Instalasi Plugin, Konversi Widget dan Inisialisasi, Fungsionalitas Pembacaan
+![Soal 3](assets/soal3.gif)
