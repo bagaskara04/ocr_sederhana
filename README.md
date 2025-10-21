@@ -10,3 +10,6 @@
 ## Soal 3: Penyesuaian Tampilan dan Penanganan State/Error
 ### Instalasi Plugin, Konversi Widget dan Inisialisasi, Fungsionalitas Pembacaan
 ![Soal 3](gif/soal3.gif)
+
+### Video Demo TTS
+[📂 Lihat file di Google Drive](https://drive.google.com/file/d/1vXNu0L0tqP2kznSEOQiRQubllntStOcY/view?usp=sharing)
